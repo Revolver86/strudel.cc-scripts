@@ -164,6 +164,47 @@ A genuinely musical atmospheric black metal song with actual songcraft, memorabl
 
 **Start with** `winter_eternal_simple.js` to understand individual elements and build your own arrangement.
 
+### 🌕 BLOODMOON_RISING - Raw Driving Black Metal
+Pure black metal energy with memorable riffs and raw Darkthrone-style power:
+
+**Files:**
+- `bloodmoon_rising.js` - Full auto-playing composition with dynamic structure
+- `bloodmoon_rising_simple.js` - Individual riffs for experimentation
+- `BLOODMOON_RISING.md` - Complete documentation and songcraft analysis
+
+**Features:**
+- 175 BPM → 185 BPM (speeds up at outro), D Minor
+- Song structure: Intro → Main Riff → Verse → Pre-Chorus → Chorus → Verse 2 → Breakdown → Final Chorus → Outro
+- Instantly recognizable tremolo main riff (D minor → F → C → G minor)
+- Catchy ascending chorus riff (D-E-F-G pattern)
+- Power chord pre-chorus descent building tension
+- Galloping breakdown (NO kick drum - creates massive contrast)
+- Dynamic shifts for maximum impact
+- Abrupt ending on D power chord
+
+**Key Techniques Demonstrated:**
+- The "hum test" - riffs you can remember after one listen
+- Groove-oriented blast beats (headbang-worthy despite speed)
+- Dynamic contrast (breakdown makes final chorus hit harder)
+- Raw Darkthrone production aesthetic (bit-crushed, minimal reverb)
+- Call-response dual guitar technique
+- Classic black metal tremolo + blast beats arranged into actual SONG
+- Memorable hooks and riff-focused songcraft
+
+**Perfect for learning:**
+- Writing memorable, hummable black metal riffs
+- Creating groove despite fast tempos
+- Using dynamics to create impact
+- Raw production that serves the riffs
+- Classic BM techniques in song structure
+- Making music that makes you want to thrash
+
+**Concept:** Primal forces, werewolf transformation, blood moon, raw unbridled energy. Classic black metal themes in Darkthrone "A Blaze in the Northern Sky" style - raw, powerful, riff-focused. Music that makes you want to blast it loud and thrash around, not study it intellectually.
+
+**Songcraft focus:** MEMORABLE RIFFS first. The test: Can you hum the main riff after one listen? Can you hum the chorus? If yes, we succeeded. Pure black metal energy channeled into songcraft.
+
+**Start with** `bloodmoon_rising_simple.js` to test each riff individually and see what makes them memorable.
+
 ## How to Use This Documentation
 
 ### For Beginners
