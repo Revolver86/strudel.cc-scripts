@@ -52,6 +52,38 @@ Fast lookup reference containing:
 
 **Use this** as a cheatsheet while coding.
 
+### 🏰 STATIC CATHEDRAL - Atmospheric Black Metal Composition
+A complete, complex atmospheric black metal composition showcasing advanced Strudel techniques:
+
+**Files:**
+- `static_cathedral.js` - Full structured version with automatic timing
+- `static_cathedral_simple.js` - Modular version for experimentation
+- `STATIC_CATHEDRAL.md` - Complete documentation and artistic concept
+
+**Features:**
+- 135 BPM, F# Dorian scale
+- Multi-section structure: Intro → Verse 1 → Transition → Verse 2 → Bridge → Climax → Outro
+- Advanced sound design: filtered noise, bit-crushing, cathedral reverb
+- Melodic black metal approach (early Ulver meets Tim Hecker)
+- Explores "finding transcendence in digital degradation"
+
+**Key Techniques Demonstrated:**
+- Noise shaping with dynamic filtering
+- Selective bit-crushing for texture
+- Layered reverb and delay for spatial depth
+- Perlin noise for organic modulation
+- Complex pattern layering and timing
+- Balance of harsh and beautiful elements
+
+**Perfect for learning:**
+- Advanced composition structure
+- Sound design with effects chains
+- Creating atmosphere and emotion
+- Working with multiple simultaneous layers
+- Building dynamic arrangements
+
+**Start with** `static_cathedral_simple.js` to understand the individual layers, then explore the full structured version.
+
 ## How to Use This Documentation
 
 ### For Beginners
