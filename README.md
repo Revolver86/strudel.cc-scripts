@@ -1,0 +1,183 @@
+# Strudel.cc Research & Documentation
+
+This repository contains comprehensive research and documentation about **Strudel.cc**, a browser-based live coding environment for creating music.
+
+## What is Strudel?
+
+Strudel is a music live coding environment that runs entirely in the browser. It's a JavaScript port of TidalCycles, allowing you to create beats, melodies, and complete musical compositions by writing code.
+
+- **Website**: https://strudel.cc/
+- **No installation required** - runs in your browser
+- **Built-in samples and synthesizers**
+- **Real-time pattern manipulation**
+- **Perfect for live performances and music production**
+
+## Files in This Repository
+
+### 📘 STRUDEL_COMPREHENSIVE_GUIDE.md
+The complete guide to Strudel covering:
+- Core concepts and syntax
+- Mini notation explained
+- Pattern creation and manipulation
+- Audio effects and filters
+- Music theory (scales, chords, notes)
+- MIDI and OSC integration
+- Live performance techniques
+- Complete track examples
+- Best practices and tips
+
+**Start here** for a thorough understanding of Strudel.
+
+### 🎵 EXAMPLE_PATTERNS.js
+Ready-to-use code patterns including:
+- Basic beats and drum patterns
+- Euclidean rhythms
+- Melodic patterns and basslines
+- Complete track examples (minimal techno, house, ambient, breakbeat)
+- Pattern transformation techniques
+- Live coding performance templates
+- Helper patterns for common tasks
+
+**Copy and paste** these directly into https://strudel.cc/ to start making music.
+
+### 📋 QUICK_REFERENCE.md
+Fast lookup reference containing:
+- Essential commands
+- Mini notation syntax table
+- Function reference
+- Common patterns (drums, bass, melody)
+- Complete track template
+- Keyboard shortcuts
+- Quick start workflow
+
+**Use this** as a cheatsheet while coding.
+
+## How to Use This Documentation
+
+### For Beginners
+1. Read the introduction in **STRUDEL_COMPREHENSIVE_GUIDE.md**
+2. Try the basic examples from **EXAMPLE_PATTERNS.js**
+3. Keep **QUICK_REFERENCE.md** open while coding
+4. Visit https://strudel.cc/ and start experimenting
+
+### For Creating Songs
+1. Choose a template from **EXAMPLE_PATTERNS.js**
+2. Modify the tempo, sounds, and patterns
+3. Reference specific techniques in **STRUDEL_COMPREHENSIVE_GUIDE.md**
+4. Use **QUICK_REFERENCE.md** for function lookups
+
+### For Live Coding
+1. Practice patterns from **EXAMPLE_PATTERNS.js** section 15
+2. Review live performance tips in **STRUDEL_COMPREHENSIVE_GUIDE.md**
+3. Keep **QUICK_REFERENCE.md** nearby for quick syntax reminders
+4. Start minimal and build up gradually
+
+## Quick Start
+
+### Your First Beat
+```javascript
+// Copy this to https://strudel.cc/
+s("bd sd bd sd")
+```
+
+### Your First Melody
+```javascript
+note("c d e f g a b c5").sound("piano")
+```
+
+### Your First Complete Track
+```javascript
+setcps(0.5)
+
+stack(
+  s("bd sd bd sd"),
+  s("hh*8").gain(0.3),
+  note("c2 ~ c2 eb2").sound("sawtooth").lpf(600)
+)
+```
+
+### Stop Everything
+```javascript
+hush()
+```
+Or press: `Ctrl + .`
+
+## Research Sources
+
+This documentation was compiled from:
+- Official Strudel documentation (https://strudel.cc/)
+- TidalCycles documentation
+- Community tutorials and articles
+- GitHub repositories and discussions
+- Cheatsheets and reference guides
+- Live coding community resources
+
+## Key Features Documented
+
+✅ Mini notation syntax
+✅ Pattern creation functions (seq, stack, cat)
+✅ All audio effects (filters, reverb, delay, distortion)
+✅ Music theory integration (scales, chords, transposition)
+✅ Rhythm patterns (Euclidean, polyrhythms)
+✅ Time manipulation (fast, slow, every, sometimes)
+✅ MIDI and OSC support
+✅ Sample loading and management
+✅ Drum machine banks
+✅ Synthesizer waveforms
+✅ Live performance techniques
+✅ Complete song examples
+✅ Best practices and tips
+
+## External Resources
+
+### Official Documentation
+- Main site: https://strudel.cc/
+- Getting Started: https://strudel.cc/workshop/getting-started/
+- Technical Manual: https://strudel.cc/technical-manual/docs/
+- JavaScript API: https://strudel.cc/functions/intro/
+
+### Community
+- GitHub: https://github.com/tidalcycles/strudel
+- Awesome Strudel: https://github.com/terryds/awesome-strudel
+- Song Examples: https://github.com/eefano/strudel-songs-collection
+
+### Cheatsheets
+- https://eggg.uk/strudel/cheatsheet/
+- https://tilde.club/~moondog8/stuff/2024-10-24-strudel-live-code-cheat-sheet/
+
+## Next Steps
+
+1. **Practice**: Open https://strudel.cc/ and try the examples
+2. **Experiment**: Modify patterns to create your own sounds
+3. **Explore**: Click the shuffle button in the REPL for more examples
+4. **Learn**: Read through the comprehensive guide
+5. **Create**: Start making your own music!
+
+## Tips for Success
+
+- Start simple and build complexity gradually
+- Use the sounds tab to explore available samples
+- Comment out code (`//`) to toggle parts on/off quickly
+- Save your code frequently
+- Join the community for inspiration and help
+- Don't be afraid to experiment and make mistakes
+- Listen to your code - let your ears guide you
+
+## About This Research
+
+This comprehensive documentation was created through extensive research of:
+- Official Strudel.cc documentation and tutorials
+- Community resources and examples
+- Technical reference materials
+- Live coding best practices
+- Real-world usage patterns
+
+**Purpose**: To provide a complete, ready-to-use resource for creating music with Strudel.
+
+---
+
+**Ready to start making music?**
+
+Visit https://strudel.cc/ and begin your live coding journey! 🎵
+
+For questions or to contribute, visit the official Strudel GitHub: https://github.com/tidalcycles/strudel
