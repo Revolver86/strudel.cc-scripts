@@ -123,6 +123,47 @@ An extreme, weaponized black metal composition demonstrating information warfare
 
 **Start with** `memetic_kill_agent_simple.js` to understand weapon systems individually.
 
+### 🌨️ WINTER_ETERNAL - Traditional Atmospheric Black Metal
+A genuinely musical atmospheric black metal song with actual songcraft, memorable melodies, and emotional resonance:
+
+**Files:**
+- `winter_eternal.js` - Full auto-playing composition with traditional song structure
+- `winter_eternal_simple.js` - Modular elements for experimentation
+- `WINTER_ETERNAL.md` - Comprehensive musical documentation
+
+**Features:**
+- 150 BPM, E Minor (Em → Gmaj7 → Am7 → Bsus4 progression)
+- Traditional song structure: Intro → Verse → Chorus → Verse → Bridge → Climax → Outro
+- 30-second clean tremolo arpeggio intro
+- Memorable chorus hook melody you can hum
+- Parallel harmony counter-melodies (thirds and sixths)
+- Mournful bridge solo (E minor pentatonic)
+- Dynamic emotional arc building from melancholy to triumph
+
+**Key Techniques Demonstrated:**
+- Actual chord progressions and harmonic movement
+- Phrased melodies with rhythm and breathing space
+- Parallel guitar harmonies (traditional melodic BM technique)
+- Dynamic section control (stripped chorus vs full climax)
+- Layered production (clean + distorted guitars simultaneously)
+- Balanced effects (atmospheric reverb without destroying clarity)
+- Traditional black metal aesthetics with modern production
+
+**Perfect for learning:**
+- Traditional black metal songcraft
+- Creating memorable, hummable melodies
+- Chord-based composition (not just riffs)
+- Dual guitar harmonies and counter-melodies
+- Dynamic arrangement (quiet vs loud, sparse vs dense)
+- Emotional arc through song structure
+- Balance of heaviness and beauty
+
+**Concept:** Winter landscapes, isolation, melancholy beauty. Traditional atmospheric black metal in the style of early Immortal and Dissection - cold and beautiful, heavy but melodic, with actual riffs and hooks. Real black metal is about the feeling, the riffs, and the atmosphere - not experimental noise.
+
+**Songcraft focus:** This is about THE SONG - memorable melodies, clear structure, hooks, and emotional resonance. Not just texture or atmosphere, but actual musical composition.
+
+**Start with** `winter_eternal_simple.js` to understand individual elements and build your own arrangement.
+
 ## How to Use This Documentation
 
 ### For Beginners
