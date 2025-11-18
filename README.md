@@ -84,6 +84,45 @@ A complete, complex atmospheric black metal composition showcasing advanced Stru
 
 **Start with** `static_cathedral_simple.js` to understand the individual layers, then explore the full structured version.
 
+### ⚔️ MEMETIC_KILL_AGENT - Aggressive Digital Black Metal
+An extreme, weaponized black metal composition demonstrating information warfare through sound:
+
+**Files:**
+- `memetic_kill_agent.js` - Full weapon deployment sequence
+- `memetic_kill_agent_simple.js` - Modular weapon systems
+- `MEMETIC_KILL_AGENT.md` - Complete tactical documentation
+
+**Features:**
+- 190 BPM, B Locrian scale (darkest, most unstable mode)
+- 7-phase attack sequence: Intro → Verse 1 → Breakdown → Verse 2 → Bridge → Climax → Termination
+- Three-layer tremolo attack with maximum dissonance
+- Stereo chaos (different blast patterns left/right)
+- Meshuggah-style locked groove climax
+- Abrupt termination mid-phrase
+
+**Key Techniques Demonstrated:**
+- Inhuman precision (perfect quantization, algorithmic aggression)
+- Heavy bit-crushing (crush: 3-7) for digital weapon fire effect
+- Stereo field manipulation with `.pan()`
+- Binary masking for precise section control
+- Long alternating patterns for song structure
+- Harsh square waves and minimal reverb
+- Dynamic extremes for cognitive disorientation
+
+**Perfect for learning:**
+- Extreme aggressive production techniques
+- Creating weaponized, hostile sound design
+- Working with dissonant scales (Locrian mode)
+- Multi-layer tremolo riff construction
+- Stereo chaos and spatial disorientation
+- Building complete song structures with distinct phases
+
+**Concept:** Based on SCP Foundation's "memetic kill agent" - information that acts as a weapon. Music as hostile code that hijacks consciousness through algorithmic precision and cognitive overload.
+
+**WARNING:** Designed for maximum aggression. Use headphone volume responsibly.
+
+**Start with** `memetic_kill_agent_simple.js` to understand weapon systems individually.
+
 ## How to Use This Documentation
 
 ### For Beginners
